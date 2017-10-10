@@ -1,4 +1,4 @@
-function basicTeenager(13)  {
+function basicTeenager(13)==<19  {
 
 }
 
